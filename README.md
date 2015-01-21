@@ -57,7 +57,7 @@ Parâmetros de configurações do componente:
 
 ## Definições de acesso
 
-Para configurar as regras de permissões para os grupos de usuários, acesse `http://seusite.com/admin/acl_caching/acl/`
+Para configurar as regras de permissões para os grupos de usuários, acesse `http://seusite.com/acl_caching/acl/`
 
 # Utilização do Componente
 
