@@ -1,3 +1,5 @@
+Para Cake 3 usar - https://github.com/alexsmonte/AclManager
+
 # AclCaching 2015
 Controle de Acesso atraves do ACL fazendo cache das permissoes, baseado no trabalho de Pedro Elsner
 
